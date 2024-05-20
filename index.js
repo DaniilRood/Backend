@@ -1,5 +1,5 @@
-let M = 2;
-let N = 100;
+const M = 2;
+const N = 100;
 
 function isPrime(num) {
     if (num < 2) 
